@@ -1,0 +1,1 @@
+# nuxt-movie-info-app
